@@ -89,22 +89,38 @@ Outside tech, I’m dedicated to **Music and personal growth**, believing that d
 
 ---
 
+---
+
 ### GitHub Highlights
 <p align="left">
 
+  <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
-    <img src="https://git-hub-streak-stats.vercel.app?user=VJVasudharini&theme=tokyonight-duo" alt="GitHub Streak" />
+    <img 
+      src="https://streak-stats.demolab.com?user=VJVasudharini&theme=tokyonight-duo&hide_border=true" 
+      alt="GitHub Streak" 
+    />
   </a>
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=VJVasudharini&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VJVasudharini&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats" 
+  />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJVasudharini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VJVasudharini&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+  />
 
 </p>
+
+---
 
 
 
