@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I'm VJ Vasudharini</h1>
 <h3 align="center">
-Computer Science Undergrad (IoT) |Gen AI & Agentic AI Enthusiast | Aspiring Cloud Developer & Solutions Architect | Fitness & Tech Driven
+Artificial Intelligence And Data Science undergrad |Gen AI & Agentic AI Enthusiast | Aspiring Entrepreneur| passion & Tech Driven
 </h3>
 
 ---
@@ -15,7 +15,7 @@ I’m a **Computer Science Engineering undergrad** at *Shiv Nadar University, Ch
 My interests lie in building **Intelligent systems**, **scalable cloud applications**, and exploring the possibilities of **Generative & Agentic AI**.  
 Outside tech, I’m dedicated to **Music and personal growth**, believing that discipline in one area strengthens all others. 
 
-- ⚙️ Currently learning: **LLMs, RAG, Agentic AI, Deep Learning, DevOps, and Cloud Services (AWS, Azure, GCP)**  
+- ⚙️ Currently learning: **LLMs, RAG, Agentic AI, Deep Learning, SDE, and Cloud Services (AWS, Azure, GCP)**  
 - ⚙️ Open to collaborations on **AI + Data + Cloud projects**  
 - ⚙️ Seeking mentorship for **career growth and job prep**  
 - ⚙️ Fun fact: *There’s no free lunch*
