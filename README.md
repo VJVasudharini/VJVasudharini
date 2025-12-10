@@ -11,13 +11,13 @@ Computer Science Undergrad (IoT) |Gen AI & Agentic AI Enthusiast | Aspiring Clou
 
 ### About Me
 
-I’m a **Computer Science Engineering undergrad** at *Shiv Nadar University, Chennai*, specializing in the **Internet of Things (IoT)**.  
-My interests lie in building **intelligent systems**, **scalable cloud applications**, and exploring the possibilities of **Generative & Agentic AI**.  
-Outside tech, I’m dedicated to **fitness and personal growth**, believing that discipline in one area strengthens all others. 
+I’m a **Computer Science Engineering undergrad** at *Shiv Nadar University, Chennai*, specializing in the **Artificial Intelligence And Data Science**.  
+My interests lie in building **Intelligent systems**, **scalable cloud applications**, and exploring the possibilities of **Generative & Agentic AI**.  
+Outside tech, I’m dedicated to **Music and personal growth**, believing that discipline in one area strengthens all others. 
 
-- ⚙️ Currently learning: **RAG, Agentic AI, Deep Learning, DevOps, and Cloud Services (AWS, Azure, GCP)**  
-- ⚙️ Open to collaborations on **AI + Cloud + IoT projects**  
-- ⚙️ Seeking mentorship for **career growth and cloud job prep**  
+- ⚙️ Currently learning: **LLMs, RAG, Agentic AI, Deep Learning, DevOps, and Cloud Services (AWS, Azure, GCP)**  
+- ⚙️ Open to collaborations on **AI + Data + Cloud projects**  
+- ⚙️ Seeking mentorship for **career growth and job prep**  
 - ⚙️ Fun fact: *There’s no free lunch*
 
 ---
@@ -68,19 +68,19 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
 
 ![snake gif](https://github.com/willseyyyy/willseyyyy/blob/output/github-snake-dark.svg)
 
 ### 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/willseyyyy/" target="_blank">
+<a href="https://www.linkedin.com/in/vasudharini-vj-099075258/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
 </a>
-<a href="https://www.instagram.com/willseyyyy/" target="_blank">
+<a href="https://www.instagram.com/_vj315/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
 </a>
-<a href="mailto:evansenigo5@gmail.com" target="_blank">
+<a href="mailto:vaj.244a@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
 </a>
 
@@ -101,14 +101,14 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 
 ### LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/willseyyyy?theme=nord&font=Cabin&ext=contest)
+![LeetCode Stats]([https://leetcode.com/u/VasudhariniVJ024/]?theme=nord&font=Cabin&ext=contest)
 ---
 
 ### Featured Work & Writing
 
-- ⚙️ Projects: [GitHub Portfolio](https://github.com/willseyyyy)  
+- ⚙️ Projects: [GitHub Portfolio]([https://github.com/VJVasudharini])  
 - ⚙️ Blog: [Wix Articles](https://www.wix.com/blog/what-is-a-blog)  
-- ⚙️ Resume: [Profile Summary](https://drive.google.com/file/d/12j_xtFpJEL6lPPvkxeTE_nhpQ4IWZSC-/view?usp=sharing) 
+- ⚙️ Resume: [Profile Summary](https://drive.google.com/file/d/1tbnq-JsPZ44nJpNEULAE9N_ZWyQqdLuo/view?usp=drive_link) 
 
 ---
 
@@ -118,5 +118,5 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 </p>
 
 ---
-*Building scalable systems. Exploring smart automation. Lifting both code and weights .*
+*Building scalable systems. Exploring AI driven solutions. Lifting both code and spirits! .*
 
