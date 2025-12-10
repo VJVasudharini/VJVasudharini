@@ -4,8 +4,9 @@ Artificial Intelligence And Data Science undergrad |Gen AI & Agentic AI Enthusia
 </h3>
 
 ---
+ <!-- [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VJVasudharini&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VJVasudharini&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=VJVasudharini&theme=dracula&no-frame=true&no-bg=true&row=1&column=9&title=Stars,Commits,Followers,Issues,Repositories,PullRequest,Contributions,MultiLanguage,Organizations)](https://github.com/lucthienphong1120/github-trophies)
 
 
 
@@ -93,31 +94,13 @@ Outside tech, I’m dedicated to **Music and personal growth**, believing that d
 
 ### GitHub Highlights
 <p align="left">
-
-  <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=VJVasudharini&theme=tokyonight-duo&hide_border=true" 
-      alt="GitHub Streak" 
-    />
+    <img src="https://git-hub-streak-stats.vercel.app?user=VJVasudharini&theme=tokyonight-duo" alt="GitHub Streak" />
   </a>
-
   <br><br>
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VJVasudharini&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=VJVasudharini&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br><br>
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VJVasudharini&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-  />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJVasudhariniy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
