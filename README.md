@@ -72,7 +72,8 @@ Outside tech, I’m dedicated to **Music and personal growth**, believing that d
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-![snake gif](https://github.com/willseyyyy/willseyyyy/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/VJVasudharini/VJVasudharini/blob/output/github-snake-dark.svg)
+
 
 ### 🌐 Connect with Me
 
