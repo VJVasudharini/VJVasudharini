@@ -91,13 +91,19 @@ Outside tech, I’m dedicated to **Music and personal growth**, believing that d
 
 ### GitHub Highlights
 <p align="left">
+
   <a href="https://git.io/streak-stats">
     <img src="https://git-hub-streak-stats.vercel.app?user=VJVasudharini&theme=tokyonight-duo" alt="GitHub Streak" />
   </a>
+
   <br><br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=VJVasudharini&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willseyyyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJVasudharini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
 </p>
 
 
