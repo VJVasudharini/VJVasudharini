@@ -106,7 +106,8 @@ Outside tech, I’m dedicated to **Music and personal growth**, believing that d
 
 ### LeetCode Stats
 
-![LeetCode Stats]([https://leetcode.com/u/VasudhariniVJ024/]?theme=nord&font=Cabin&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/VasudhariniVJ024?theme=nord&font=Cabin&ext=contest)
+
 ---
 
 ### Featured Work & Writing
