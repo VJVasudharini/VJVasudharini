@@ -100,6 +100,14 @@ Outside tech, I’m dedicated to **Music and personal growth**, believing that d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willseyyyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VJVasudharini&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJVasudharini&layout=compact&theme=radical" />
+</p>
+
+
 ---
 
 ### LeetCode Stats
